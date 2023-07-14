@@ -15,6 +15,6 @@ I'm a young developer eager to learn more about programming
 
 <!-- Stolen  from https://github.com/BEPb -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/Bottom_down_dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/Bottom_down_light.svg"/>
   <img src="assets/Bottom_down_light.svg"/>
 </picture>
