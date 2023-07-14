@@ -12,3 +12,6 @@ I'm a young developer eager to learn more about programming
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Whitelisted1/Whitelisted1/snk_out/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+<!-- Stolen  from https://github.com/BEPb -->
+<img src="assets/Bottom_down.svg">
