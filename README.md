@@ -17,7 +17,7 @@ I'm a young developer eager to learn more about programming
 
 <h2>Contact me on Discord</h2>
 <a href="https://discord.com/invite/TPFR8T5JG4">
-    <img src="https://discordsvgcreator.pythonanywhere.com/getUserProfile/513501267377782791?">
+    <img src="https://discordsvgcreator.pythonanywhere.com/getUserProfile/513501267377782791?t=1">
 </a>
 
 <br>
