@@ -17,7 +17,7 @@ I'm a young developer eager to learn more about programming
 <br><br>
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Whitelisted1&theme=gitdimmedno-frame=true"/>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Whitelisted1&theme=gitdimmed&no-frame=true"/>
 	<img src="https://github-profile-trophy.vercel.app/?username=Whitelisted1&no-frame=true">
 </picture>
 
