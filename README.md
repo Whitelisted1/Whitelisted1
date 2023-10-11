@@ -14,7 +14,7 @@ I'm a young developer eager to learn more about programming
 	<img src="https://raw.githubusercontent.com/Whitelisted1/Whitelisted1/snk_out/github-contribution-grid-snake.svg" />
 </picture>
 
-<br>
+<br><br>
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Whitelisted1&theme=gitdimmed&column=4&no-frame=true"/>
