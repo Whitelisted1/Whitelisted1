@@ -2,8 +2,8 @@
 
 <h1>
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1000&repeat=false&width=335&height=35&lines=Hey+there%2C+I'm+Whitelisted&color=FFFFFF&vCenter=true" alt="Hey there I'm Whitelisted"/>
-		<img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1000&repeat=false&width=335&height=35&lines=Hey+there%2C+I'm+Whitelisted&color=000000&vCenter=true" alt="Hey there, I'm Whitelisted"/>
+		<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1000&repeat=false&width=360&height=35&lines=Hey+there%2C+I'm+Whitelisted&color=FFFFFF&vCenter=true" alt="Hey there I'm Whitelisted"/>
+		<img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1000&repeat=false&width=360&height=35&lines=Hey+there%2C+I'm+Whitelisted&color=000000&vCenter=true" alt="Hey there, I'm Whitelisted"/>
 	</picture>
 </h1>
 
