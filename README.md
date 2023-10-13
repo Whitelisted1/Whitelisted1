@@ -17,8 +17,8 @@ I'm a young developer eager to learn more about programming
 <br><br>
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Whitelisted1&theme=gitdimmed&no-frame=true"/>
-	<img src="https://github-profile-trophy.vercel.app/?username=Whitelisted1&no-frame=true">
+	<source media="(prefers-color-scheme: dark) and (min-width: 100px)" srcset="https://github-profile-trophy.vercel.app/?username=Whitelisted1&theme=gitdimmed&no-frame=true&column=5"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=Whitelisted1&no-frame=true&column=5">
 </picture>
 
 <br>
