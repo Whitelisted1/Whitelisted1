@@ -7,7 +7,7 @@
 	</picture>
 </h1>
 
-I'm a young developer eager to learn more about programming
+Professional bad code writer
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Whitelisted1/Whitelisted1/snk_out/github-contribution-grid-snake-dark.svg" />
@@ -23,7 +23,7 @@ I'm a young developer eager to learn more about programming
 
 <br>
 
-<h2>Contact me on Discord</h2>
+<h2>Contact me via Discord</h2>
 <a href="https://discord.com/invite/TPFR8T5JG4">
 	<img src="https://discordsvgcreator.pythonanywhere.com/getUserProfile/513501267377782791?t=1">
 </a>
